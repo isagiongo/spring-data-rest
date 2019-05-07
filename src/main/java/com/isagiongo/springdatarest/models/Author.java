@@ -19,5 +19,4 @@ public class Author {
 	
 	@NotBlank
 	private String name;
-	
 }
